@@ -20,8 +20,14 @@ Estrutura do projeto
 O sistema é composto por três classes principais:
 
 Post — representa uma publicação
+
+
 Comentario — representa um comentário associado ao post
+
+
 Main — responsável pela execução do programa
+
+
 Exemplo de uso
 
 Um post pode conter vários comentários, e esses comentários são armazenados em uma lista dentro da classe Post.
@@ -29,7 +35,11 @@ Um post pode conter vários comentários, e esses comentários são armazenados 
 Post post = new Post(...);
 
 Comentario c1 = new Comentario("Muito bom!");
+
+
 Comentario c2 = new Comentario("Gostei bastante!");
+
+
 
 post.addComentario(c1);
 post.addComentario(c2);

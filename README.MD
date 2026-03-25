@@ -43,13 +43,21 @@ Comentario c2 = new Comentario("Gostei bastante!");
 
 post.addComentario(c1);
 post.addComentario(c2);
+
 Exemplo de saída
+
 Viajando para a Nova Zelandia
+
 12 Likes - 21/06/2018 13:05:44
+
 Um lugar maravilhoso
+
 Comentarios:
+
 Muito bom!
+
 Isso é incrivel
+
 Objetivo
 
 Este projeto foi desenvolvido com foco em aprendizado, visando consolidar conceitos importantes de Java e preparar a base para projetos mais avançados.
